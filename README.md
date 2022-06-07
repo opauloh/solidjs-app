@@ -1,3 +1,7 @@
+# solidjs-app
+
+Just playing around and checking if not having a Virtual DOM really make it fast and better than React.
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
